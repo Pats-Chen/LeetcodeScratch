@@ -1,6 +1,8 @@
 #! /usr/bin/env python3
 from heapq import heappop, heappush
 
+# problem description
+# https://www.fastprep.io/problems/amazon-maximize-parentheses-efficiency-score
 # test case 1 input
 # s = ")(("
 # kitParentheses = ")(()))"
